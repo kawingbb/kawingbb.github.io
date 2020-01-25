@@ -2,6 +2,6 @@
 
 <img src="images/FHRPoster.png?raw=true"/>
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Urbanisation is a huge challenge for wild animals. As human keep developing and occupying most of the resources, it breaks the urban-rural balance and make wild animals become more difficult to survive. Wild animals have to fight for limited resources under the domination of human. In the game, players will act as one kind of wild animal and compete with other teams. They have to make use of their advantages to win the resource battle, and build their own house as fast as they can to protect their team members.
 
-```
+**Tools:** Unity, Maya.
