@@ -5,19 +5,19 @@
 ### Game Project
 
 [Forest House Racing](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><img src="images/FHRCapScreen.png?raw=true"/>
 
 ---
 [Pause](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><img src="images/PCapScreen.png?raw=true"/>
 
 ---
 [Last Man Standing](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Last Man Standing](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### Category Name 2
