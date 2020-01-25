@@ -2,21 +2,24 @@
 
 ---
 
-### Category Name 1 
+### Game Project
 
-[Project 1 Title](/sample_page)
+[Forest House Racing](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Pause](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Last Man Standing](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Last Man Standing](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
