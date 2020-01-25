@@ -16,7 +16,3 @@
 <br><img src="images/LMSCapScreen.png?raw=true"/>
 
 ---
-[Last Man Standing](http://example.com/)
-<br><img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
