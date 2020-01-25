@@ -8,11 +8,11 @@
 <br><img src="images/FHRCapScreen.png?raw=true"/>
 
 ---
-[Pause](/pdf/sample_presentation.pdf)
+[Pause](/P_Page.md)
 <br><img src="images/PCapScreen.png?raw=true"/>
 
 ---
-[Last Man Standing](http://example.com/)
+[Last Man Standing](/LMS_Page.md)
 <br><img src="images/LMSCapScreen.png?raw=true"/>
 
 ---
