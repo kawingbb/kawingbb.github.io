@@ -4,7 +4,7 @@
 
 ### Game Project
 
-[Forest House Racing](/sample_page)
+[Forest House Racing](/FHR_Page.md)
 <br><img src="images/FHRCapScreen.png?raw=true"/>
 
 ---
