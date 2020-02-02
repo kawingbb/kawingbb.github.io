@@ -16,7 +16,7 @@
 <br><img src="images/LMSCapScreen.png?raw=true"/>
 
 ---
-[2020 Global Game Jam - Support Carry](/SC_Page.md)
+[2020 Global Game Jam - Support Carry](/LMS_Page.md)
 <br><img src="images/SCCapScreen.png?raw=true"/>
 
 ---
