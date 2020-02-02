@@ -18,3 +18,5 @@
 ---
 [2020 Global Game Jam - Support Carry](/SC_Page.md)
 <br><img src="images/SCCapScreen.png?raw=true"/>
+
+---
