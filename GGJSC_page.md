@@ -1,31 +1,26 @@
-## This can be your internal website page / project page
+## Global Game Jam 2020 - Support Carry
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NjFKhXDXc1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+<br>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+**Story:**
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+You are a weak little man who only know how to fixes robots.
 
-### 2. Assess assumptions on which statistical inference will be based
+One day you broke your television, and what are you, a repairer, gonna do about it?
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Well, you are gonna go to the dungeon with your machine friends to beat some evil robots and get their new television.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+Rule: Survive and beat all enemies while hiding behind your robots and repairing them when they are at low health. Beat the boss behind the large door to win the game.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Control:**
+- ASDW: human move around
+- Left/Right/Middle Mouse Click: Tell red/yellow/blue robot where to go
+- Shift + Left/Right/Middle Mouse Click: Tell red/yellow/blue robot to follow human
+- Space: Repair robot when human is close to it (cost: 1 bolt = 1/10 health)
 
-### 4. Provide a basis for further data collection through surveys or experiments
+- P.S. Shield for robots can be obtained somewhere with a cost of 20 bolts each
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+**Tools:** Unity, Maya, MagicaVoxel
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
