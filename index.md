@@ -21,4 +21,4 @@
 
 ---
 [2021 Global Game Jam - Memories](/GGJM_Page.md)
-<br><img src="images/SCCapScreen.png?raw=true"/>
+<br><img src="images/MCapScreen.png?raw=true"/>
