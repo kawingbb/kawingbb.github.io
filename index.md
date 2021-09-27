@@ -25,7 +25,7 @@
 
 ---
 [AR Game Concept - Dear God](/DG_Page.md)
-<br><img src="images/DGCapScreen.png?raw=true"/>
+<br><img src="images/DGCapScreen.jpg?raw=true"/>
 
 ---
 [Voxel Game Concept](/VG_Page.md)
