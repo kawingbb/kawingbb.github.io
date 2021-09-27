@@ -24,11 +24,11 @@
 <br><img src="images/MCapScreen.png?raw=true"/>
 
 ---
-[AR Game Concept - Dear God](/GGJM_Page.md)
+[AR Game Concept - Dear God](/DG_Page.md)
 <br><img src="images/DGCapScreen.png?raw=true"/>
 
 ---
-[Voxel Game Concept](/GGJM_Page.md)
+[Voxel Game Concept](/VG_Page.md)
 <br><img src="images/VGCapScreen.png?raw=true"/>
 
 ---
