@@ -32,11 +32,11 @@
 <br><img src="images/VGCapScreen.png?raw=true"/>
 
 ---
-[Tetris Game Concept](/VG_Page.md)
-<br><img src="images/VGCapScreen.png?raw=true"/>
+[Tetris Game Concept](/T_Page.md)
+<br><img src="images/TCapScreen.png?raw=true"/>
 
 ---
-[2022 Global Game Jam - Escapism](/VG_Page.md)
+[2022 Global Game Jam - Escapism](/E_Page.md)
 <br><img src="images/ECapScreen.jpg?raw=true"/>
 
 ---
