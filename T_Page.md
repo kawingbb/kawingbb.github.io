@@ -4,7 +4,7 @@
 
 <br>
 
-**Project description:** 
+**Project description:** This is a Gacha tetris mobile game with 2d pixel style. There are many boss in six worlds and player need to defeat them by playing special tetris with their own monster. Every monster has its own special skill and passive skill. Player need to build their own team by matching three monsters to create their own playing style.
 
 **Tools:** Unity
 
