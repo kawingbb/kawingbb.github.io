@@ -44,3 +44,7 @@
 <br><img src="images/ESCapScreen.png?raw=true"/>
 
 ---
+[2023 Global Game Jam - 24 Billy](/24B_Page.md)
+<br><img src="images/24B_CapScreen.png?raw=true"/>
+
+---
