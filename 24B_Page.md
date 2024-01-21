@@ -1,10 +1,16 @@
 ## Tetris Pixel Game Concept
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/01nx-sm1s34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QYfbJGQsM4I?si=AKPknlS2QNhwLGce" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
-**Project description:** This is a Gacha tetris mobile game with 2d pixel style. There are many boss in six worlds and player need to defeat them by playing special tetris with their own monster. Every monster has its own special skill and passive skill. Player need to build their own team by matching three monsters to create their own playing style.
+**Project description:** 
+
+Every time someone makes a choice, parallel worlds branch off to play out differently based on what one did.
+
+But what if, both of the outcomes play out simultaneously, where both the base and branches of roots can be observed in the same world?
+
+Enter Thought Experiment, where all choices you make impact the world at the same time. You will see other "you" acts upon the world. In this world, choices will have dire consequences. Uncover what is possible and the truth behind the roots of parallel worlds.
 
 **Tools:** Unity
 
