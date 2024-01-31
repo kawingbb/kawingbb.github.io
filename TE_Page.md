@@ -15,6 +15,7 @@ Bring him to salvation.
 Make them laugh.
 
 **Tutorial:**
+
 Gathering information via conversations.
 Fulfill their wishes by using items or meeting certain requirements.
 Execute prisoners with the gun.
