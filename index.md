@@ -1,8 +1,8 @@
 ## Portfolio
 
----
-
 ### Game Project
+
+---
 
 [2024 Global Game Jam - The Executioner](/TE_Page.md)
 <br><img src="images/TECapScreen.png?raw=true"/>
@@ -49,12 +49,12 @@
 
 ---
 
-[Multi-player game concept - Last Man Standing](/LMS_Page.md)
+[Multi-player Game Concept - Last Man Standing](/LMS_Page.md)
 <br><img src="images/LMSCapScreen.png?raw=true"/>
 
 ---
 
-[HKUST Game Programming - Pause](/P_Page.md)
+[HKUST Game Programming Course - Pause](/P_Page.md)
 <br><img src="images/PCapScreen.png?raw=true"/>
 
 ---
