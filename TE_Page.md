@@ -2,7 +2,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnHj09bHlmI?si=wQg0EP-ZZ8F4Mn2q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<br><img src="images/TE2CapScreen.png?raw=true"/>
+<br><img src="images/TECapScreen2.png?raw=true"/>
 
 ## Best Serious Game Award
 
