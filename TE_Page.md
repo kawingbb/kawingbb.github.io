@@ -1,16 +1,25 @@
-## Tetris Pixel Game Concept
+## Global Game Jam 2024 Best Serious Game Award - The Executioner
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QYfbJGQsM4I?si=AKPknlS2QNhwLGce" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CnHj09bHlmI?si=wQg0EP-ZZ8F4Mn2q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
 **Project description:** 
 
-Every time someone makes a choice, parallel worlds branch off to play out differently based on what one did.
+We believe in the power of happiness, even if they are gonna die soon.
+Do you see the prisoners? Waiting to be executed, miserably clinging for the last bit of his life.
+You need to give them happiness, before you have the right to execute them.
+It is a necessary good. It is a necessary evil.
+Do him a favor.
+Bring him to salvation.
+Make them laugh.
 
-But what if, both of the outcomes play out simultaneously, where both the base and branches of roots can be observed in the same world?
-
-Enter Thought Experiment, where all choices you make impact the world at the same time. You will see other "you" acts upon the world. In this world, choices will have dire consequences. Uncover what is possible and the truth behind the roots of parallel worlds.
+**Tutorial:**
+Gathering information via conversations.
+Fulfill their wishes by using items or meeting certain requirements.
+Execute prisoners with the gun.
+Any action consumes 1 turn.
+You have 10 turns per day and 7 days to complete the game. That gives you a total of 70 turns.)
 
 **Tools:** Unity
 
