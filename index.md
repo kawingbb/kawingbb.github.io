@@ -49,17 +49,17 @@
 
 ---
 
-[Last Man Standing](/LMS_Page.md)
+[Multi-player game concept - Last Man Standing](/LMS_Page.md)
 <br><img src="images/LMSCapScreen.png?raw=true"/>
 
 ---
 
-[Pause](/P_Page.md)
+[HKUST Game Programming - Pause](/P_Page.md)
 <br><img src="images/PCapScreen.png?raw=true"/>
 
 ---
 
-[Forest House Racing](/FHR_Page.md)
+[HKUST FYP - Forest House Racing](/FHR_Page.md)
 <br><img src="images/FHRCapScreen.png?raw=true"/>
 
 ---
