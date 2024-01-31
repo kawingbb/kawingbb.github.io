@@ -1,8 +1,10 @@
-## Global Game Jam 2024 Best Serious Game Award - The Executioner
+## Global Game Jam 2024 - The Executioner
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnHj09bHlmI?si=wQg0EP-ZZ8F4Mn2q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
+
+Best Serious Game Award
 
 **Project description:** 
 
