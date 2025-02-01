@@ -1,6 +1,6 @@
 ## Global Game Jam 2024 - The Executioner
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CnHj09bHlmI?si=wQg0EP-ZZ8F4Mn2q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ttaNJ88cQgQ?si=jLoOq8MEt_P45lt2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br><img src="images/TECapScreen2.png?raw=true"/>
 
